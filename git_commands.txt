@@ -21,3 +21,8 @@ dir
 git status
 git restore testing.py
 git status
+
+git remote set-url origin https://ghp_xAveBstG7...
+git status
+git push origin master
+clear
